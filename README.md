@@ -1,4 +1,3 @@
-IJEMIN Unity/C# programming
-  unity-retr0 
-  game programming essence
+#IJEMIN Unity/C# programming
+Unity game programming essence
 
